@@ -29,10 +29,10 @@ Streamlit과 Neon Postgres를 사용하여 자동 수집된 채널 지표를 월
 - **Deployment**: Streamlit Community Cloud
 
 ## 📊 프로젝트 구조
-streamlit-youtube-dashboard/
-├── streamlit_app.py          # 메인 대시보드 코드
-├── requirements.txt
-└── README.md
+- streamlit-youtube-dashboard/
+- ├── streamlit_app.py          # 메인 대시보드 코드
+- ├── requirements.txt
+- └── README.md
 
 ## 🗄 데이터베이스
 Neon Postgres (무료 티어 사용)
