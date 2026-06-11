@@ -5,9 +5,7 @@ Streamlit과 Neon Postgres를 사용하여 자동 수집된 채널 지표를 월
 포트폴리오용으로 제작된 가벼운 프로젝트입니다.
 
 ## 🔗 Live Demo
-
-> 배포 후 아래 링크를 추가해주세요  
-> [https://your-app-name.streamlit.app](https://your-app-name.streamlit.app)
+> [Live Demo](https://app-youtube-dashboard-ylqdapjb7ypkcnl2endvpw.streamlit.app/)
 
 ## ✨ 주요 기능
 
